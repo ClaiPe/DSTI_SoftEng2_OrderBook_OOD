@@ -62,20 +62,41 @@
 
 ---
 
-## 🧪 Example Usage
+## 👽 Example Usage
 ```text
 Enter your choice: 1
-Enter task description: Build login feature
-Enter programmer name and workload in hours (separated by a space): Alice 5
+Enter task description: Patch lightsaber software to prevent accidental limb removal
+Enter programmer name and workload in hours (separated by a space): Obi-Wan 12
+added!
+
+Enter your choice: 1
+Enter task description: Fix Yoda's sentence structure parser in chatbot AI
+Enter programmer name and workload in hours (separated by a space): Luke 8
 added!
 
 Enter your choice: 3
-1: Build login feature, (5 hours), programmer: Alice, status = NOT FINISHED
+1: Patch lightsaber software to prevent accidental limb removal, (12 hours), programmer: Obi-Wan, status = NOT FINISHED
+2: Fix Yoda's sentence structure parser in chatbot AI, (8 hours), programmer: Luke, status = NOT FINISHED
 
 Enter your choice: 4
 Enter task ID to mark as finished: 1
 Task 1 marked as finished.
 
 Enter your choice: 2
-1: Build login feature, (5 hours), programmer: Alice, status = FINISHED
+1: Patch lightsaber software to prevent accidental limb removal, (12 hours), programmer: Obi-Wan, status = FINISHED
+
+Enter your choice: 5
+Luke
+Obi-Wan
 ```
+
+---
+
+## 🧪 Testing
+The ```bash main.py``` script includes:
+
+ - Example test cases for each part of the assignment
+ - The full CLI program for real-time interaction
+
+Just run ```bash main.py``` to try both the tests and the program.
+
