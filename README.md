@@ -35,6 +35,8 @@
 ├── README.md       # Project documentation (this file)
 ```
 
+---
+
 ## 🚀 How to run the project
 **1. Clone the repository** (or download the files):
 
@@ -57,6 +59,8 @@
 5. List of programmers
 6. Show status of programmer
 ```
+
+---
 
 ## 🧪 Example Usage
 ```text
