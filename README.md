@@ -3,7 +3,7 @@
 ## 📚 Course info
 
 - **Institution:** DSTI School of Engineering
-- **Program:** Applied MSc in Data Engineering & Artificial Intelligence  
+- **Program:** Applied MSc in Data Science & Artificial Intelligence  
 - **Course:** Software Engineering Part 2   
 - **Project:** Individual assessment  
 
